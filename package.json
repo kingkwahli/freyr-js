@@ -72,7 +72,7 @@
     "hh-mm-ss": "^1.2.0",
     "html-entities": "^2.6.0",
     "isbinaryfile": "^5.0.6",
-    "libxget": "^0.6.1",
+    "libxget": "^0.11.0",
     "lodash.merge": "^4.6.2",
     "lodash.mergewith": "^4.6.2",
     "lodash.sortby": "^4.7.0",
